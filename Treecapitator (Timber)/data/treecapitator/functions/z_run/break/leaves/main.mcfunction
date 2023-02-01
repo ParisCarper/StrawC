@@ -1,0 +1,1 @@
+execute run function treecapitator:z_run/break/leaves/loot

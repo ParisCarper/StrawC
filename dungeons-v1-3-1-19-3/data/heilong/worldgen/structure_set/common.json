@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "weight": 1,
+            "structure": "heilong:dungeon"
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 64,
+        "separation": 24,
+        "salt": 1258791759
+    }
+}
