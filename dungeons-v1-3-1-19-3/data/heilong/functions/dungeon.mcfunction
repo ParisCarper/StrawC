@@ -1,1 +1,0 @@
-execute as @a at @s if block ~ ~-1 ~ minecraft:ochre_froglight run execute as @a at @s if block ~ ~-1 ~ minecraft:ochre_froglight run execute as @a at @s if block ~ ~-2 ~ minecraft:command_block run function heilong:dungeon1
