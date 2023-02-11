@@ -1,9 +1,10 @@
 ## Common Commands for mcserver
 
+
 ## -- Hot Commands -- 
 
 ## Start Server
-java -Xmx5120M -Xms2048M -jar paper-1.19.3-396.jar
+java -Xmx5120M -Xms3072M -jar paper-1.19.3-396.jar
 
 
 ## Watch Temp
@@ -12,16 +13,17 @@ watch -n 1 vcgencmd measure_temp
 ## Watch Clock Speed
 watch -n 1 vcgencmd measure_clock arm
 
-## Git Clone
-git clone https://github.com/ParisCarper/StrawC
-
 ## Remove without Error
 rm -rf "name"
 
 ## Check storage left on server
 df -h
 
+
 ## -- Cold Commands --
+
+## Git Clone
+git clone https://github.com/ParisCarper/StrawC
 
 sudo apt-get update
 
