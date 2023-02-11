@@ -1,5 +1,7 @@
 ## Common Commands for mcserver
 
+## -- Hot Commands -- 
+
 ## Start Server
 java -Xmx5120M -Xms2048M -jar paper-1.19.3-396.jar
 
@@ -16,3 +18,11 @@ git clone https://github.com/ParisCarper/StrawC
 ## Remove without Error
 rm -rf "name"
 
+## Check storage left on server
+df -h
+
+## -- Cold Commands --
+
+sudo apt-get update
+
+sudo apt-get install git
