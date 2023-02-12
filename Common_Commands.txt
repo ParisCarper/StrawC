@@ -13,6 +13,9 @@ watch -n 1 vcgencmd measure_temp
 ## Watch Clock Speed
 watch -n 1 vcgencmd measure_clock arm
 
+## Combo Watch
+watch -n 1 "vcgencmd measure_temp &&  vcgencmd measure_clock arm && free -h"
+
 ## Remove without Error
 rm -rf "name"
 
