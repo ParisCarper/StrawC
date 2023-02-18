@@ -22,6 +22,9 @@ rm -rf "name"
 ## Check storage left on server
 df -h
 
+## -- In game commands --
+
+/drivebackup test onedrive
 
 ## -- Cold Commands --
 
