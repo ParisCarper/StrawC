@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 10,
+    "description": {
+      "text": "Towers",
+      "color": "aqua",
+      "hoverEvent": {
+        "action": "show_text",
+        "value": "And More!"
+      }
+    }
+  }
+}

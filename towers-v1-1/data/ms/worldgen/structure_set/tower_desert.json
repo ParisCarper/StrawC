@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ms:tower_desert",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 3463463,
+    "spacing": 25,
+    "separation": 15
+  }
+}

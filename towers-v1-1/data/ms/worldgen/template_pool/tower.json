@@ -1,0 +1,33 @@
+{
+  "name": "ms:fortress",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "ms:tower_1",
+        "processors": "ms:tower"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "ms:tower_2",
+        "processors": "ms:tower"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "rigid",
+        "location": "ms:tower_3",
+        "processors": "ms:tower"
+      }
+    }
+  ]
+}

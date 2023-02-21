@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ms:tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 641996537,
+    "spacing": 35,
+    "separation": 20
+  }
+}
