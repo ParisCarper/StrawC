@@ -1,0 +1,20 @@
+---The Floating Block Fix--- 10/18/2021
+♦ Sorpresenly, one of my portals generate with one floating block, this won't happen again.
+♦ Tweak a little bit some on the portals.
+---The 1.18 Update--- 1/15/2022	
+♦ Updated the pack_format, now i should not appear a error in the last version.
+---I don't feel so good--- 2/12/2022
+♦ If you play with the pack, you know that you can find a zombified piglin in the portals, but the problem is that they can despawn if it past lots of days in minecraft, only if you add a nametag you can avoid this but.
+Added the "PersistenceRequired" tag it will not despawn the poor piglin.
+---The 1.18.2 Update and Portal Variants--- 3/05/2022
+♦ Theme portals are now a thing now, thanks for the new structure placement engine on 1.18.2, Lush and Dripstone now spawn around the caves, they are pretty weird but you can type /locate hopo: 
+And give a look to them!
+--- 1.19 Update --- 6/11/2022
+♦ Blackstone portals can now spawn ocassionaly on caves
+♦ Deepslate portals is real!
+♦ Compatible with mods or datapacks that want to modified the loot the portals ruins
+♦ There is more chance to find more obsidian, now you can repair the "big" portals
+♦ Finally improve the loot of the existing portals
+--- Feedback Changes and Forge Fix --- 7/9/2022
+♦ Loot was too op
+♦ Fix a forge issue

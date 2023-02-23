@@ -1,0 +1,1 @@
+tellraw @a {"text":"Successfully loaded ","color":"yellow","extra":[{"text":"Netherite Dungeons","color":"blue","bold":true,"italic":true,"underlined":true},{"text":" by ","color":"yellow"},{"text":"CivetKitty","color":"aqua","bold":true},{"text":"!","color":"yellow"}]}

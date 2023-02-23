@@ -1,0 +1,11 @@
+modLoader = "javafml"
+loaderVersion = "[38,)"
+license = "All Rights Reserved"
+[[mods]]
+modId = "hopo"
+version = "1.1.6"
+displayName = "HopoBetterMineshaft"
+credits = ""
+authors = "Hoponopono"
+description = "Hopo Better Mineshaft is a mod that keeps the vanilla essence of mineshaft, making explore caves more exciting"
+logoFile="pack.png" 
