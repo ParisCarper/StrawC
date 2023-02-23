@@ -4,7 +4,9 @@
 ## -- Hot Commands -- 
 
 ## Start Server
-java -Xmx5120M -Xms3072M -jar paper-1.19.3-396.jar
+java -Xmx5120M -Xms3072M -jar paper-1.19.3-413.jar
+
+should try java -Xms128M -Xmx6500M -jar /opt/minecraft/server.jar nogui
 
 
 ## Watch Temp
@@ -14,7 +16,7 @@ watch -n 1 vcgencmd measure_temp
 watch -n 1 vcgencmd measure_clock arm
 
 ## Combo Watch
-watch -n 1 "vcgencmd measure_temp &&  vcgencmd measure_clock arm && free -h"
+watch -n 1 "vcgencmd measure_temp &&  vcgencmd measure_clock arm && free -h && df -h"
 
 ## Remove without Error
 rm -rf "name"
