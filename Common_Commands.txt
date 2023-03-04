@@ -41,3 +41,8 @@ git clone https://github.com/ParisCarper/StrawC
 sudo apt-get update
 
 sudo apt-get install git
+
+
+## -- Expand File System --
+
+You can manually trigger the root FS expansion by running "sudo raspi-config" then selecting "Advanced Options" then "Expand Filesystem".
